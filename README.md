@@ -21,4 +21,4 @@ use jsDelivr with the method described in the article
 or download the file and upload it to your site or to a CDN.
 
 # Copyright Info
-Copyright 2019 VPT. All Rights Reserved, check the [LICENSE](LICENSE.md) for more details.
+Copyright 2019 - 2020 Wybe Network. All Rights Reserved, check the [LICENSE](LICENSE.md) for more details.
