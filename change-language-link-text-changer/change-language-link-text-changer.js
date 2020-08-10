@@ -11,9 +11,11 @@
 	*   Last Updated on 8th August 2020 by MAHOfficial
 	*
 	************************************************************************** */
+document.addEventListener("DOMContentLoaded", function() {
 var t = ["item_", "icon-"];
 for (n=0; n<=1; n++)
 {
 document.getElementById(`${t[n]}change_language`).setAttribute("href", change_language_link)
 document.getElementById(`${t[n]}change_language`).innerHTML=change_language_text;
 }
+});
